@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to friends who are convinced of God's eternal truth, and have received the testimony of it that all may be kept faithful in their testimony to the truth, life and power of God, which is unchangeable, and be preserved unto God by his power (out of and over) all that which is changeable, and such a [sic] as are subject to change their wayes / by James Parke.</title>
+            <author>Parke, James, 1636-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56026</idno>
+            <idno type="STC">Wing P372</idno>
+            <idno type="STC">ESTC R2668</idno>
+            <idno type="EEBO-CITATION">12498388</idno>
+            <idno type="OCLC">ocm 12498388</idno>
+            <idno type="VID">62590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62590)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 700:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to friends who are convinced of God's eternal truth, and have received the testimony of it that all may be kept faithful in their testimony to the truth, life and power of God, which is unchangeable, and be preserved unto God by his power (out of and over) all that which is changeable, and such a [sic] as are subject to change their wayes / by James Parke.</title>
+                  <author>Parke, James, 1636-1696.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Parke, Horse-lie-down, 9th of the 9th Moneth 1678.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62590:1"/>
+            <pb facs="tcp:62590:1" rendition="simple:additions"/>
+            <p>A General Epiſtle TO FRIENDS Who are Convinced of God's Eternal TRUTH, And have Received the Teſtimony of it.</p>
+            <p>That all may be Kept Faithful in their Teſti<g ref="char:EOLhyphen"/>mony to the Truth, Life and Power of God, which is Unchangeable;</p>
+            <p>And be preſerved unto God by his Power (out of and over) all that which is Changeable, and ſuch a as are ſubject to Change their Wayes.</p>
+            <p>By <hi>James Parke.</hi>
+            </p>
+            <p>Printed in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62590:2"/>
+            <pb n="3" facs="tcp:62590:2"/>
+            <head>A General Epiſtle to Friends, &amp;c.</head>
+            <opener>
+               <salute>DEar <hi>Friends</hi> and <hi>Brethren,</hi> in the Univerſal Love of God do I ſalute you,</salute>
+            </opener>
+            <p>and in the freſh Remembrance of the Power of that Life which hath no End do I exhort you all to keep in the unchangeable Life and Power, which was before Death and Weakneſs was, which is the ſame forever, and purely preſerves to God out of Darkneſs, Weak<g ref="char:EOLhyphen"/>neſs, and all that which is Changeable; the minding whereof brings Darkneſs over the Underſtanding, and will weaken your Faith in the Day of Tryal, from whence comes Doubting, Fleſhly Reaſonings and Un<g ref="char:EOLhyphen"/>belief about God's Requirings, and the Teſtimony of the Truth; and one ſaith God requires <hi>one thing,</hi> ano<g ref="char:EOLhyphen"/>ther appears in a Contrary Mind, and yet pretends his <hi>freedom in the Truth</hi> in that which is <hi>inconſiſtent with the Teſtimony of Truth,</hi> as generally received and be<g ref="char:EOLhyphen"/>lieved by all that keep in the Spirit of it, and are bap<g ref="char:EOLhyphen"/>tized by one Spirit into one Body: Here is not many Minds, Opinions, Diviſion, nor none Broken in Judg<g ref="char:EOLhyphen"/>ment in their Teſtimony, as it is amongſt them all who are out of the Life and Power of God, they are kept in the many Minds, Opinions, Diviſion, and Bro<g ref="char:EOLhyphen"/>ken in Judgment, changing as the Times change, their Minds, Opinions and Judgments being wrong, cor<g ref="char:EOLhyphen"/>rupted, and being in that that is changeable, and will have an End, they look for Help from that which is changeable, and will have an End: But <hi>Dear Friends,</hi> you that are brought and redeemed out of that that is changeable, and will have an end, into that which is
+<pb n="4" facs="tcp:62590:3"/>unchangeable of God, and is the ſame forever. O dwell and abide in that which gathers you into one, and to mind the ſame things, and to be kept one in Heart, Soul and Spirit, and ſpiritual Judgment, a<g ref="char:EOLhyphen"/>gainſt all that which would divide in God's <hi>Iſrael,</hi> againſt all that which would keep Self alive, and plead to ſave Self, when God's Teſtimony requires Self-denyal, and Croſſing Self (and 'tis faithful following of the Lamb he requires) and He and his faithful Fol<g ref="char:EOLhyphen"/>lowers muſt have the Victory, and not the Dragon, nor his Followers, be they never ſo many, and keeps out of the Dragon's nature and power, by which his Followers Plot and Act Miſchief: there is a greater Power in you that are found faithful Followers of the Lamb, Chriſt Jeſus; O feel him in you the higheſt and greateſt Power; look ſtedfaſtly to him for Help in all your Diſtreſſes, Sufferings, Perils and Dangers, that you may be expoſed to, or meet with for bearing your Teſtimony for his Name and Honour's ſake, who is able and can ſave and deliver you out of all your Troubles and Sufferings, after you have ſuffered a while, and to make you perfect; more and more to unite and eſtabliſh all who have believed in his Grace and Truth, whereby in times paſt we have been ſaved and preſerved, when we have been numbred amongſt <hi>Tranſgreſſors, as killed all the day long,</hi> and <hi>appointed as Sheep to the Slaughter;</hi> was not then <hi>our help of the Lord alone?</hi> for from the <hi>mountains</hi> &amp; <hi>hills</hi> in vain was and is <hi>help</hi> expected: and <hi>Wo,</hi> yea, <hi>great Wo</hi> I know will come upon them that <hi>go down to Egypt for help,</hi> when <hi>troubles, perils,</hi> and the <hi>moſt fiery tryals</hi> come for the <hi>teſtimony of a good Conſcience</hi> &amp; the <hi>Word of God;</hi> ſuch will violate their Teſtimony to the Truth, loſe their firſt Love, and be darkned and weakned in their Faith towards God, and
+<pb n="5" facs="tcp:62590:3"/>that which concerns his <hi>honour</hi> &amp; their <hi>everlaſting peace,</hi> and they will not lean upon the Lord, our <hi>rock</hi> and <hi>holy One</hi> of <hi>Iſrael</hi> in the midſt of us who abide faithful, and now is witneſſed great in Power, and worthy for ever<g ref="char:EOLhyphen"/>more to be believed in and obeyed, truſted in, and fol<g ref="char:EOLhyphen"/>lowed fully by all that know him.</p>
+            <p>O <hi>dear Friends,</hi> feel God's <hi>Salvation as Walls and Bul<g ref="char:EOLhyphen"/>works round about you, to preſerve you all conſtant in your Love and Faithfulneſs unto him and his Commands or Requi<g ref="char:EOLhyphen"/>rings in your Teſtimony for God;</hi> and let not in the <hi>carnal Reaſoner</hi> or <hi>Conſulter,</hi> that would lead from the <hi>Daily Croſs of Chriſt,</hi> and keep you back from <hi>following him whither ſoever he goes;</hi> then there will be a looking at the things that are ſeen, which are but <hi>temporal;</hi> and the <hi>minds</hi> of ſuch will be drawn back from thoſe things which are <hi>inviſible</hi> and <hi>eternal:</hi> and the <hi>Eye of the mind</hi> being from the <hi>inviſible</hi> and <hi>eternal Power of God,</hi> and the <hi>teſtimony</hi> thereof, there will be an <hi>Eye</hi> towards that which is <hi>carnal</hi> for <hi>help, ſuccour</hi> and <hi>deliverance;</hi> ſo <hi>car<g ref="char:EOLhyphen"/>nal</hi> and <hi>outward Might</hi> will be looked to, and the <hi>Spirit</hi> and <hi>Power</hi> of the Lord not dwelt in, whereby God hath done much for us, and will do in us and for us more and more, as we all conſtantly look to him, truſting in the Arm of his Power forever, he will not leave us <hi>comfortleſs</hi> in the <hi>greateſt Tryals, Exerciſes or Troubles, that ever hereafter we may meet with, whilſt we are in this World.</hi>
+            </p>
+            <p>So in the unchangeable Power of God keep your Ha<g ref="char:EOLhyphen"/>bitations and dwell for evermore; and meddle not with them that are in that that is <hi>changeable,</hi> who are toſſed to and fro with the <hi>Winds and Crafts of men that lie in wait to deceive,</hi> and whereby the <hi>ſimple</hi> may be beguiled and harmed, that deſires <hi>to do nothing againſt
+<pb n="6" facs="tcp:62590:4"/>the Truth, but for it.</hi> So, <hi>dear Friends,</hi> be ye always vi<g ref="char:EOLhyphen"/>gilant and Watchful, that you may ſee the <hi>Enemy,</hi> who would break and divide you from your <hi>heavenly</hi> and <hi>right Judgment,</hi> &amp; <hi>oneneſs of Heart and Spirit</hi> that God hath given unto many (Glory to the Lord God for e<g ref="char:EOLhyphen"/>vermore) in their noble Teſtimony for his Names ſake.</p>
+            <p>O! put you on the whole <hi>Armour of God,</hi> never to be without the <hi>Armour of Light,</hi> nor your <hi>Shield of Faith,</hi> and take unto you that; when others arm themſelves with <hi>Outward Swords</hi> and <hi>Carnal Weapons,</hi> be ſure the <hi>Weapons</hi> you War with be <hi>Spiritual, and Mighty through God to the throwing down of the ſtrong Holds of the De<g ref="char:EOLhyphen"/>vil,</hi> wherein he keeps many in <hi>Diſobedience</hi> to, and <hi>Rebellion</hi> againſt the <hi>Commands of Chriſt Jeſus,</hi> who commands us to <hi>Love our Enemies, and to do good to them that hate us, and pray for them that deſpightefully uſe and perſecute us;</hi> and then will you all come to ſee and bear witneſs to the <hi>Kingdom of Chriſt Jeſus,</hi> which is <hi>not of this World,</hi> as he ſaid; and then none will hate their Enemies, nor do evil to any man, but will learn of Chriſt Jeſus to <hi>love all men,</hi> even <hi>your Enemies:</hi> which mind of Chriſt Jeſus being come unto, ends all <hi>Wars,</hi> and cauſeth <hi>Fightings with Carnal VVeapons</hi> to ceaſe, and brings people to <hi>love one another,</hi> and out of all the <hi>Killing</hi> that hath been in the World about <hi>Religion;</hi> for the mind of Chriſt Jeſus, as people come to have that, brings <hi>Peace on Earth,</hi> and <hi>not VVars, Blood-ſheddings, Hurting the Creature,</hi> that <hi>Bloodthurſty men</hi> delight in, and men in <hi>Cain's</hi> way plead for, which comes of the <hi>Wicked One,</hi> and is all contrary to the Doctrine and Command of our <hi>peaceable Savi<g ref="char:EOLhyphen"/>our</hi> Chriſt Jeſus.</p>
+            <p>So, <hi>dear Friends,</hi> let the ſame mind be in you that was in him, and be you Armed therewith; for in
+<pb n="7" facs="tcp:62590:4"/>him and by Faith is the Victory obtained over the Devil, however and where-ever he appears or works within or without, it is to hurt, weaken and deſtroy the <hi>holy Seed</hi> or <hi>Babe</hi> that is of God, which tenders Gods Honour that the <hi>Devil</hi> and his <hi>Inſtruments</hi> ſtrikes at and wars againſt.</p>
+            <p>Therefore all, <hi>dear Friends,</hi> ſhut out the <hi>Devil</hi> and his <hi>dark Spirit</hi> and <hi>Power,</hi> which is in the World, and leads back to the World and <hi>Egypt</hi> for help; that ſo you all may feel the Lord your Helper to deliver in ſix Troubles, and alſo in ſeven.</p>
+            <p>And let none be troubled when you hear of <hi>Wars,</hi> and <hi>Rumors of Wars;</hi> look not out thereat, but look to the Lord, and he will ſave, uphold and preſerve you to the End; which, that all <hi>Friends</hi> every where may by the Power of the Lord be kept ſtedfaſt and unani<g ref="char:EOLhyphen"/>mous in, I was moved of the Lord to write this; who prefers the Welfare of <hi>Sion</hi> before any thing in this World, and travails for the Peace of God's People and the Good of all men, and who remains your <hi>Friend</hi> and <hi>Brother</hi> in the unchangeable Life &amp; Power of God, in which is our <hi>Safety</hi> and <hi>Preſervation</hi> in the moſt Pe<g ref="char:EOLhyphen"/>rilous Times.</p>
+            <closer>
+               <dateline>Horſe-lie-down <date>the 9th of the 9th Moneth, 1678.</date>
+               </dateline>
+               <signed>J. Parke.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:62590:5"/>
+            <pb facs="tcp:62590:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
